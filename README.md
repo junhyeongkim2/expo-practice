@@ -2,4 +2,8 @@ expo-practice
 
 testing
 
-master:changed
+-how to use-
+
+npm install
+
+expo start
